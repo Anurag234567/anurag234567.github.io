@@ -9,7 +9,7 @@ title: "Assignment 5: Illinois License Data Visualizations"
 
 <div style="margin: 1rem 0;">
   <a href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank" style="display:inline-block; padding:10px 16px; margin-right:10px; background:#2d6cdf; color:white; text-decoration:none; border-radius:8px;">The Data</a>
-  <a href="_posts/2026-04-23-your-project-title.md" target="_blank" style="display:inline-block; padding:10px 16px; background:#28a745; color:white; text-decoration:none; border-radius:8px;">The Analysis</a>
+  <a href="https://github.com/Anurag234567/anurag234567.github.io/_posts/2026-04-23-your-project-title.md" target="_blank" style="display:inline-block; padding:10px 16px; background:#28a745; color:white; text-decoration:none; border-radius:8px;">The Analysis</a>
 </div>
 
 ---
